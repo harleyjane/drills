@@ -1,0 +1,16 @@
+body {
+    display: block;
+    margin: 8px;
+    background-color: #0e0e0e;
+    
+}
+#header {
+background-color : #404040;
+padding-left : 10px;
+}
+#title {
+list-style-type : none;
+color : #fff;
+font-size : large;
+margin-bottom : -15px;
+}
